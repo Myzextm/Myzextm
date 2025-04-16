@@ -4,7 +4,7 @@
 
 -🌱 I’m currently learning Python
 
--💞️ I’m looking to collaborate on FiveM Scripts, Lua Projects, or anything cool in Game Modding
+-💞️ I'm working on FiveM scripts, Lua projects, and other exciting game modding endeavors.
 
 -📫 How to reach me: Discord DM – psykomyzex
 
